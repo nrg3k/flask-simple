@@ -1,4 +1,3 @@
-"""init file for communication service"""
 import os
 import datadog
 from . import version1
